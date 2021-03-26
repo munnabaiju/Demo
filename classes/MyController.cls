@@ -1,4 +1,4 @@
-public class dfdf MyController {
+public class errororooror MyController {
     public String myString {
         get {
             if (myString == null) {
