@@ -1,4 +1,4 @@
-public class errororooror MyController {
+public class ymk MyController {
     public String myString {
         get {
             if (myString == null) {
