@@ -1,4 +1,4 @@
-public class MyController {
+public class dfdf MyController {
     public String myString {
         get {
             if (myString == null) {
