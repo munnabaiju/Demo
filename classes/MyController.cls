@@ -1,4 +1,4 @@
-public class ymk MyController {
+public class MyController {
     public String myString {
         get {
             if (myString == null) {
